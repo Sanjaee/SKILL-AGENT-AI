@@ -44,20 +44,6 @@ Utilities
 Notifications
 - Sonner
 
-Command Palette
-- cmdk
-
-Markdown & Chat
-- AI SDK (Vercel)
-- React Markdown
-- remark-gfm
-- rehype-highlight
-- rehype-sanitize
-
-Code Editor
-- Monaco Editor
-- Shiki
-
 File Upload
 - react-dropzone
 
