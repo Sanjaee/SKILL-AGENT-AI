@@ -62,3 +62,10 @@ AI Skills
 - Memory Management
 - Agent Planning
 - A2A (Agent-to-Agent)
+
+buatkan file vercel.json isi nya 
+{
+    "regions": [
+        "sin1"
+    ]
+}
